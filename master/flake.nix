@@ -11,6 +11,7 @@
   inputs.src-easings-master.ref   = "refs/heads/master";
   inputs.src-easings-master.owner = "juancarlospaco";
   inputs.src-easings-master.repo  = "nim-easings";
+  inputs.src-easings-master.dir   = "";
   inputs.src-easings-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
