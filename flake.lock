@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652791411,
-        "narHash": "sha256-qbJtSfwRp4YEl7HvHW0C9nepPRO9izA6QarIT1nSMeg=",
+        "lastModified": 1652796893,
+        "narHash": "sha256-EiHg9wleMaj9K90GPJsm3fEcSuc8z8Xa5hzivTgaaJs=",
         "owner": "nim-nix-pkgs",
         "repo": "easings",
-        "rev": "81f9761a6cad2f82200e0ca818d87711645b330b",
+        "rev": "7b9c1cb97523453f130318ab334f398507a84307",
         "type": "github"
       },
       "original": {
