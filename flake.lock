@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254442,
-        "narHash": "sha256-yTawRooQyjimw8KrtWcrPnyIGko1x4P5QqmBQwsNnLE=",
+        "lastModified": 1667322247,
+        "narHash": "sha256-gUwjQHtDK3Mtp6ZLIOsqlGHQBvPPZF0u4S+BT0qD/Hg=",
         "owner": "nim-nix-pkgs",
         "repo": "easings",
-        "rev": "45907586780f7e3b5a3a234762df54af7518a55b",
+        "rev": "c1ef2532da9be0d8f9170f98e0251dee45884075",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
